@@ -1,1 +1,3 @@
-# This folder is for routes
+# Pages
+
+This folder is for routes
